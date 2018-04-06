@@ -37,6 +37,5 @@ var stringifyJSON = function(obj) {
   } else {
   str += obj;
   }
-  console.log(str)
   return str;
 };
